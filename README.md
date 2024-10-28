@@ -1,5 +1,4 @@
 # Spam-Detection-using-Machine-Learning
-# Spam Detection using Machine Learning
 
 This project contains a Jupyter notebook that builds a spam detection system using various machine learning models. The notebook guides users through data preprocessing, model training, and performance evaluation to classify messages as spam or not spam.
 

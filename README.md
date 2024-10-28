@@ -25,30 +25,6 @@ The models are evaluated based on the following metrics:
 
 These metrics help us assess each model's effectiveness, enabling a comprehensive comparison of their performance.
 
-## Requirements
-
-- Python 3.x
-- Jupyter Notebook
-- Libraries: pandas, numpy, scikit-learn, nltk
-
-### Installation
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/spam-detection-ml.git
-    ```
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### Usage
-
-1. Open the Jupyter notebook:
-    ```bash
-    jupyter notebook main.ipynb
-    ```
-2. Run the cells step-by-step to preprocess data, train each model, and evaluate performance.
 
 ### Results
 
